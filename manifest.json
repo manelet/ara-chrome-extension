@@ -1,7 +1,7 @@
   {
     "name": "🚀 Ara.cat il-limitat",
     "version": "1.0",
-    "description": "",
+    "description": "Detecta quan has arribat al límit de notícies llegides i neteja les cookies per tal de començar de nou.",
     "manifest_version": 2,
     "background": {
       "scripts": [
