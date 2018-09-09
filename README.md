@@ -5,7 +5,7 @@ Experiment de extensió per a Google Chrome que detecta quan has arribat al lím
 
 1. [Descarrèga](https://github.com/manelgarcia/ara-chrome-extension/archive/master.zip) i guarda la carpeta on creguis.
 2. Ves a Extensions
-![Extensions](https://image.ibb.co/k9ipLU/Screen_Shot_2018_09_08_at_19_28_07.png){:height="400px" width="400px"}
+![Extensions](https://image.ibb.co/k9ipLU/Screen_Shot_2018_09_08_at_19_28_07.png | width=50)
 3. Clica al butó de càrrega desempaquetada (Load unpacked)
-![Load unpacked](https://image.ibb.co/cOaEn9/Screen_Shot_2018_09_08_at_19_31_17.png){:height="400px" width="400px"}
+![Load unpacked](https://image.ibb.co/cOaEn9/Screen_Shot_2018_09_08_at_19_31_17.png | width=50)
 4. Sel·lecciona la carpeta on has guardat la descàrrega
