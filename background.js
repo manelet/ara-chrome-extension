@@ -23,6 +23,7 @@ chrome.webNavigation.onCompleted.addListener(function() {
     currentTab = tabs[0]
     if (urlRegex.test(currentTab.url)) {
       sendMessage('checkBlocked', deleteCookies)
+      sendMessage('removeAds', noop)
     }
   })
 }, {url: [{urlMatches : 'https://www.ara.cat/'}]});
